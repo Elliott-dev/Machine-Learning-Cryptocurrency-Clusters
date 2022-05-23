@@ -1,4 +1,5 @@
 # Cryptocurrency-Clusters
+![image](https://user-images.githubusercontent.com/94668201/169735593-c0db2d94-674b-4a0a-89f6-17041d0ac9ee.png)
 
 ## Background
 
