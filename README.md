@@ -38,4 +38,4 @@
 
 ### Recommendation
 
-* Based on myfindings, made a brief recommendation to my clients.
+* Based on my findings, made a brief recommendation to my clients.
